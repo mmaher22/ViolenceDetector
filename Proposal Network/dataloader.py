@@ -71,7 +71,6 @@ def data_loader():
 
 def load_data(BATCH_SIZE):
     inpu,targ = data_loader()
-    BATCH_SIZE =16
     #create the test-train split here
     input_tensor_train, input_tensor_val, target_tensor_train, target_tensor_val = train_test_split(inpu, targ, test_size=0.3)
     # convert numpy arrays to pytorch stack

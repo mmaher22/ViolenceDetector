@@ -44,9 +44,7 @@ def test(val_dataloader,model):
 
 if __name__ == '__main__':
     BATCH_SIZE =16
-    inpu,targ = data_loader()
-    my_dataloader,val_dataloader = load_data(inpu,targ,BATCH_SIZE)
-    experiment parameters
+    my_dataloader,val_dataloader = load_data(BATCH_SIZE)
     epochs =30
     units = 256 # No of Lstm units
     dimensions = 144 # Dimensions of the feature used
