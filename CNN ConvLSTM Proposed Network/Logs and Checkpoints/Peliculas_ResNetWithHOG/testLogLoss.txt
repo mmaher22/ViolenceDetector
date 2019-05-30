@@ -1,0 +1,10 @@
+Test Loss after 5 epochs = 0.2347866761975172
+Test Loss after 10 epochs = 0.21800630775893606
+Test Loss after 15 epochs = 0.1267447209939724
+Test Loss after 20 epochs = 0.008489319464055503
+Test Loss after 25 epochs = 0.12292593572197891
+Test Loss after 30 epochs = 0.03909198176570055
+Test Loss after 35 epochs = 0.014297214223117364
+Test Loss after 40 epochs = 0.024127026883567253
+Test Loss after 45 epochs = 0.009166010269304602
+Test Loss after 50 epochs = 0.010822730093467526

@@ -1,0 +1,10 @@
+Test Accuracy after 5 epochs = 93.5%
+Test Accuracy after 10 epochs = 92.5%
+Test Accuracy after 15 epochs = 93.0%
+Test Accuracy after 20 epochs = 86.5%
+Test Accuracy after 25 epochs = 90.5%
+Test Accuracy after 30 epochs = 93.5%
+Test Accuracy after 35 epochs = 92.5%
+Test Accuracy after 40 epochs = 92.0%
+Test Accuracy after 45 epochs = 91.0%
+Test Accuracy after 50 epochs = 94.0%

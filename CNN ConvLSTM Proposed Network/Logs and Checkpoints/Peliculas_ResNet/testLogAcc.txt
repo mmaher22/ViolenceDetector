@@ -1,0 +1,4 @@
+Test Accuracy after 5 epochs = 97.5609756097561%
+Test Accuracy after 10 epochs = 100.0%
+Test Accuracy after 15 epochs = 65.85365853658537%
+Test Accuracy after 20 epochs = 100.0%

@@ -1,0 +1,4 @@
+Test Loss after 5 epochs = 0.07175982579952334
+Test Loss after 10 epochs = 0.059111853925193227
+Test Loss after 15 epochs = 0.4888155700230017
+Test Loss after 20 epochs = 0.04938566539345718
