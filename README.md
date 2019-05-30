@@ -29,3 +29,6 @@ as input to the Bidirectional LSTM. The LSTM output from the forward part of the
 
 ## Project Report and Results
 FROM <a href = "https://github.com/mmaher22/ViolenceDetector/blob/master/Violence_Detection_Report.pdf"> HERE </a>
+
+## Presentation Slides
+FROM <a href = "https://github.com/mmaher22/ViolenceDetector/blob/master/Violence%20Detection%20in%20Videos_Slides.pdf"> HERE </a>
